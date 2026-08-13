@@ -1,0 +1,47 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta]
+"OEM"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV\3.0.0]
+"Calculadora"="1"
+"Block"="1"
+"Path"="D:\\AMV300"
+"Moneda"="Bs."
+"AjustarImagen"="1"
+"RecienteN"=""
+"RecienteR"=""
+"Spread"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV\3.0.0\Correlativos]
+"MesMaxArchivar"="36"
+"Facturas"="96"
+"Pacientes"="2304"
+"Inventario"="318"
+"Productos"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV\3.0.0\Directorios]
+"Generador"="C:\\WINDOWS\\Pbrush.exe"
+"Imagenes"="C:\\AMV300\\amvdat\\imagenes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV\3.0.0\Empresa]
+"Direccion"="C.Ppal,Juangriego-ENE"
+"Email"="xxx@cantv.net"
+"RIF"="J-xxxxxxxxx"
+"NIT"="xxxxxxxx"
+"Telefonos"="xxxxxxxxxxx"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Juan Luis Villacorta\AMV\3.0.0\Recipes]
+"Comment1"="Médico Veterinario"
+"Comment2"="Consulta, Desparasitación, Vacunación, Cirugía, Hospitalización,"
+"Comment3"="Exámenes de Laboratorio"
+"MédicoActual"="0"
+"Medicos"="1"
+"Medico_1"="Dr. xxxxxxxxxx"
+"Pie1_1"="xxxxx"
+"Pie2_1"="xx"
+"Pie3_1"="xxxxxxxxxxx"
+"MedicoActual"="0"
+
