@@ -1,8 +1,6 @@
-# VBasic 6 source files
-*.bas linguist-language=VBasic 6
-
-# MS-DOS binaries and data files
 *.exe linguist-detectable=false
 *.com linguist-detectable=false
 *.dat linguist-detectable=false
 *.db linguist-detectable=false
+*.bat linguist-detectable=false
+*.cmd linguist-detectable=false
